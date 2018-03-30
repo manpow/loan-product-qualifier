@@ -4,21 +4,24 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "7b17e4c58a6d47e0a535d4105a15f669",
+    "content-hash": "6ab454d7c85b227232ec9d289828ef9e",
     "packages": [
         {
             "name": "platformsh/symfonyflex-bridge",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/platformsh/symfonyflex-bridge.git",
-                "reference": "646cc067e4cd7d69c944b60c437422a78ad74179"
+                "reference": "cf697ec2ea722df8d0284effc33c5296d8c043ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/platformsh/symfonyflex-bridge/zipball/646cc067e4cd7d69c944b60c437422a78ad74179",
-                "reference": "646cc067e4cd7d69c944b60c437422a78ad74179",
+                "url": "https://api.github.com/repos/platformsh/symfonyflex-bridge/zipball/cf697ec2ea722df8d0284effc33c5296d8c043ee",
+                "reference": "cf697ec2ea722df8d0284effc33c5296d8c043ee",
                 "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.0"
             },
             "type": "library",
             "extra": {
@@ -42,7 +45,7 @@
                 }
             ],
             "description": "Bridge library for running Symfony Flex on Platform.sh",
-            "time": "2018-01-25T19:09:29+00:00"
+            "time": "2018-03-07T19:42:16+00:00"
         },
         {
             "name": "psr/cache",
