@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6ab454d7c85b227232ec9d289828ef9e",
+    "content-hash": "a73ce0510cef6851abe9434df55e812d",
     "packages": [
         {
             "name": "platformsh/symfonyflex-bridge",
