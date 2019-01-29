@@ -1,24 +1,27 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "78481bd34c3458ed4d03ad7e3cf76753",
+    "content-hash": "f02a14e6f0339f72f21a75594ae9e10a",
     "packages": [
         {
             "name": "platformsh/symfonyflex-bridge",
-            "version": "1.3.0",
+            "version": "1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/platformsh/symfonyflex-bridge.git",
-                "reference": "df28ed1ebad8db70d3afb6bb8148df08665b7599"
+                "reference": "3f28346bd57d21afc5657a68909bab938e52847c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/platformsh/symfonyflex-bridge/zipball/df28ed1ebad8db70d3afb6bb8148df08665b7599",
-                "reference": "df28ed1ebad8db70d3afb6bb8148df08665b7599",
+                "url": "https://api.github.com/repos/platformsh/symfonyflex-bridge/zipball/3f28346bd57d21afc5657a68909bab938e52847c",
+                "reference": "3f28346bd57d21afc5657a68909bab938e52847c",
                 "shasum": ""
+            },
+            "require": {
+                "php": "^7.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^7.0"
@@ -45,7 +48,7 @@
                 }
             ],
             "description": "Bridge library for running Symfony Flex on Platform.sh",
-            "time": "2018-09-13T20:28:44+00:00"
+            "time": "2019-01-16T17:39:58+00:00"
         },
         {
             "name": "psr/cache",

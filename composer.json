@@ -1,8 +1,8 @@
 {
-    "name": "symfony/skeleton",
+    "name": "manpow/loan-product-qualifier",
     "type": "project",
     "license": "MIT",
-    "description": "A minimal Symfony project recommended to create bare bones applications",
+    "description": "HubDB Replacement for SBL qualification lookup.",
     "require": {
         "php": "^7.1.3",
         "ext-ctype": "*",
